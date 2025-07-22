@@ -1,6 +1,7 @@
 # Regression Task Submission
 
 This folder contains my submission for the **Regression Task** (predicting continuous numerical variables) for the Machine Learning module.
+
 The submission includes multiple Jupyter Notebooks documenting each stage of the task and a comprehensive report in Microsoft Word format.
 
 ## Files
