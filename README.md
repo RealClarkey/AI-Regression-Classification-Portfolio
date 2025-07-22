@@ -1,5 +1,5 @@
-# Machine Learning Portfolio - University of Wolverhampton
-
+# Machine Learning Portfolio
+Second year.
 This repository contains my submission for a Machine Learning and AI module assessment, covering both regression and classification tasks.
 I scored a 100/100 for this module.
 
