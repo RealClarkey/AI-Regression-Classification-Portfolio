@@ -1,6 +1,8 @@
 # Classification Task Submission
 
-This folder contains my work for the **Classification Task** (predicting class labels) as part of the Machine Learning module, using the Wisconsin Breast Cancer dataset.
+This folder contains my submission for the **Classification Task** (predicting class labels) as part of the Machine Learning module, using the Wisconsin Breast Cancer dataset.
+
+The submission includes multiple Jupyter Notebooks documenting each stage of the task and a comprehensive report in Microsoft Word format.
 
 ## Files
 - `Assessment Classification Report.docx`: Full report comparing models
